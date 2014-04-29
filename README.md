@@ -50,11 +50,9 @@ function MyCtrl($scope, $q, $http) {
 
 Promise objects now have the following functions:
 
-- `get()`: See [Q API docs](https://github
-.com/kriskowal/q/wiki/API-Reference#promisegetpropertyname).
+- `get()`: See [Q API docs](https://github.com/kriskowal/q/wiki/API-Reference#promisegetpropertyname).
 
-- `post()`: See [Q API docs](https://github
-.com/kriskowal/q/wiki/API-Reference#promisepostmethodname-args).
+- `post()`: See [Q API docs](https://github.com/kriskowal/q/wiki/API-Reference#promisepostmethodname-args).
 
 ## Author
 
