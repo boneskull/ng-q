@@ -1,8 +1,8 @@
 # ng-q
 
-[Q](https://github.com/kriskowal/q) extensions to AngularJS' `$q`
+[Q](https://github.com/kriskowal/q) extensions to AngularJS' `$q` Implementation
 
-Implementation
+> **Warning:** There is not much here right now, but I plan to expand the API as much as is reasonable.
 
 ## Purpose
 
