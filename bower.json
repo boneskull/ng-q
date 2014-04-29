@@ -1,0 +1,33 @@
+{
+    "name": "ng-q",
+    "version": "0.1.0",
+    "authors": [
+        "Christopher Hiller <chiller@badwing.com>"
+    ],
+    "description": "Q extensions to AngularJS' $q Implementation",
+    "keywords": [
+        "angular",
+        "ng",
+        "q",
+        "Q",
+        "promise",
+        "promises",
+        "defer",
+        "deferred"
+    ],
+    "license": "MIT",
+    "homepage": "http://boneskull.github.io/ng-q",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "spec",
+        "Gruntfile.js",
+        "package.json"
+    ],
+    "dependencies": {
+        "angular": "*"
+    },
+    "devDependencies": {
+        "angular-mocks": "*"
+    }
+}
