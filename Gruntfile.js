@@ -86,7 +86,7 @@ module.exports = function (grunt) {
 
   require('load-grunt-tasks')(grunt);
 
-  grunt.registerTask('test', ['jshint', 'bower', 'karma', 'coveralls']);
+  grunt.registerTask('test', ['jshint', 'bower', 'karma']);
   grunt.registerTask('build', ['uglify']);
   grunt.registerTask('default', ['test', 'build']);
 };
